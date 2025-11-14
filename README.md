@@ -1,5 +1,4 @@
 # COVID-19-2025
-# COVID-19-2025
 ## SARS-CoV-2 Oral Microbiome Analysis
 
 This repository contains the code, phyloseq objects, metadata, and QIIME 2 pipeline used to process and analyze the oral microbiome data for the manuscript. All microbiome analyses were performed in R using phyloseq, and sequence processing was performed in QIIME 2.
